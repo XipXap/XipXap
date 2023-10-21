@@ -37,11 +37,12 @@
   ### :trophy: Достижения:
 
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=HipHap" alt=""/>
+    <img src="https://github-profile-trophy.vercel.app/?username=XipXap" alt=""/>
   </div>
 
  ### :keyboard: Наиболее используемые языки:
 
    <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forsayd" alt=""/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XipXap" alt=""/>
    </div>
+
