@@ -9,7 +9,7 @@
 </div>
 
 <div id="view prof" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=forsayd&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=XipXap&style=flat-square&color=blue" alt=""/>
 </div>
 
 <div id="hey there" align="center">
@@ -35,3 +35,8 @@
   </div>
 
   ### :trophy: Достижения:
+
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=HipHap" alt=""/>
+  </div>
+
