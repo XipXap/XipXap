@@ -33,3 +33,5 @@
     <img src= "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>
     <img src= "https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" width="40px" height="40px"/>
   </div>
+
+  ### :trophy: Достижения:
