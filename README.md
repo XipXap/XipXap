@@ -17,3 +17,9 @@
 </div>
 
 ### :older_man: Обо мне:
+
+- :shipit: Я Егор
+
+- :shipit: Я ДА
+
+- :shipit: ОЧень да
