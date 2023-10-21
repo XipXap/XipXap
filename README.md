@@ -46,3 +46,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XipXap" alt=""/>
    </div>
 
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=forsayd&theme=rogue" alt=""/>
+  </div>
